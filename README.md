@@ -1,2 +1,2 @@
-# anikapotu.github.io
-personal website
+# Anika Potu
+Welcome to my website!
