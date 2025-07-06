@@ -1,2 +1,1 @@
-# Anika Potu
-Welcome to my website!
+# About Me
