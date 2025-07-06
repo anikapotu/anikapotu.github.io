@@ -1,2 +1,4 @@
 # Anika Potu
-All About Me
+About Me
+
+Education
