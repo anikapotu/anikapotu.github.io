@@ -1,6 +1,6 @@
 # Anika Potu
 ## About Me
-
+(insert text here)
 
 ## Contact Information
 
