@@ -14,6 +14,8 @@ www.linkedin.com/in/anika-potu
 Education
 
 University of California, Merced
+
 Bachelor's of Science in Computer Science and Engineering
+
 Minor in Management and Business Economics
    
