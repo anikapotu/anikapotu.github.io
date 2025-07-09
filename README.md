@@ -1,17 +1,17 @@
 # Anika Potu
-About Me
+## About Me
 
 
-Contact Information
+## Contact Information
 
 Email: anikapotu@gmail.com
 
-LinkedIn
+## LinkedIn
 
 www.linkedin.com/in/anika-potu 
 
 
-Education
+## Education
 
 University of California, Merced
 
