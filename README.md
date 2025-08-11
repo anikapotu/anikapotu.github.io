@@ -1,6 +1,6 @@
 # Anika Potu
 ## About Me
-(insert text here)
+My name is Anika (uh-nee-ka). I am a senior at University of California, Merced. I found my interest for Computer Science when I started creating mini-projects using block-based coding in middle school. I decided to major in Computer Science after I realized I truly enjoyed creating mini-projects in Python in high school and because I enjoy doing math. 
 
 ## Contact Information
 
@@ -41,7 +41,7 @@ Coded various primitives such as charts and graphs to display crop data from the
 Summer 2025: UC LEADS at University of California, San Diego
 
 
-## Conferences
+## Conferences Attended
 WE24 Conference (Society of Women Engineers)
 
 October 24-26, 2024
