@@ -1,6 +1,6 @@
 # Anika Potu
 ## About Me
-My name is Anika (uh-nee-ka). I am a senior at University of California, Merced. I found my interest for Computer Science when I started creating mini-projects using block-based coding in middle school. I decided to major in Computer Science after I realized I truly enjoyed creating mini-projects in Python in high school and because I enjoy doing math. 
+My name is Anika Potu. I am a senior at University of California, Merced. I found my interest for Computer Science when I started creating mini-projects using block-based coding in middle school. I decided to major in Computer Science after I realized I truly enjoyed creating mini-projects in Python in high school and because I enjoy doing math. 
 
 ## Contact Information
 
